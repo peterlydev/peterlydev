@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Peter Ly</h1>
 <h3 align="center">Fullstack Developer. @getfutureproof graduate. Looking for a job in Software Development.</h3>
-<img align="right" alt="Coding" width="400" src="https://gifer.com/3odR.gif">
+<img align="right" alt="Coding" width="400" src="[https://gifer.com/3odR.gif](https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peterlydev&label=Profile%20views&color=0e75b6&style=flat" alt="peterlydev" /> </p>
 

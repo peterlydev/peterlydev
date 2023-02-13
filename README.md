@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **peter.ly1@hotmail.com**
 
-- 📄 Know about my experiences: [Click here to download my CV](https://peterlydev.netlify.app/static/media/cv.e1e18bd5ea461603cb3d.pdf)
+- 📄 Know about my experiences: [Click here to download my CV](https://peterlydev.netlify.app/static/media/cv.b34ca25465368547a9bd.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
